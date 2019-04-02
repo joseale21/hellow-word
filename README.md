@@ -1,2 +1,5 @@
 # hellow-word
-just another repository
+
+Hi Humans!
+
+My name is José Alejandro, nice to meet you!
